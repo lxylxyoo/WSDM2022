@@ -1,0 +1,1 @@
+When running train_predict.py, dgl graphs will be generated from .csv files and saved here.
